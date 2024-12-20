@@ -1,0 +1,238 @@
+﻿id;Usuario;IP;nombre de maquina;Areas
+;Ana Claudia Alva Valera;172.20.50.124;;UREG
+;Selene Jassmin Carlos Avila;172.20.50.118;;UREG
+;Maria Jose Davila Malpica;172.20.50.166;;UREG
+;Sandy Vergara Alfaro;172.20.50.78;;UREG
+;Renzo Prieto Villena;172.20.50.120;;UREG
+;Andy Paul Silva Gamarra;172.20.50.59;;UREG
+;Fernando Luis Castillo Mendoza;172.20.50.205;;UREG
+;Elsa Graciela Campos Gonzales;172.20.50.213;;UREG
+;Diana Argomedo;172.20.52.212;;Mesa De Partes
+;Diana Soledad Vasquez Zavala;172.20.52.206;;Mesa De Partes
+;Apagada;172.20.50.122;;Mesa De Partes
+;Jhan Christian Obando Chafloque;172.20.52.211;;Orientacion
+;Willy Enrique Yupanqui Ventura;172.20.50.42;;Orientacion
+;Jhan Christian Obando Chafloque;172.20.52.225;;Orientacion
+;Patricia Arteaga Rios;172.20.50.252;;Orientacion
+;Xiomara Fiorella Mendez Flores;172.20.50.43;;Orientacion
+;Fotocopiadora;172.20.52.203;;Orientacion
+;Julio Joseph Andree Gutierrez Fernandez;172.20.50.231;;Caja y Digitadores
+;;172.20.50.108;;Caja y Digitadores
+;Ivan Ricardo Solar Alfaro;172.20.50.237;;Caja y Digitadores
+;cpereda;172.20.50.82;;Caja y Digitadores
+;jborisl Sjaramil;172.20.50.248;;Caja y Digitadores
+;Carlos Eduardo Grados Jimenez;172.20.50.181;;Caja y Digitadores
+;rcarbajal rguillen;172.20.50.13;;Caja y Digitadores
+;Ronald (caja 02);172.20.50.102;;Caja y Digitadores
+;cgrados;172.20.50.198;;Caja y Digitadores
+;Luis Enrique Rodriguez Orozco;172.20.50.243;;Caja y Digitadores
+;Luis Jose Bardales Justiniano;172.20.50.191;;Caja y Digitadores
+;Gianella Tatiana Quezada Castro;172.20.50.203;;Caja y Digitadores
+;nsolisg;172.20.53.163;;Imagen
+;Shirley Katherine Torres Calderon;172.20.53.178;;Imagen
+;Geraldine Estefany Rodriguez Soles;172.20.52.252;;Imagen
+;Manuel Leon Cabrera;172.20.50.19;;Imagen
+;Angel Ernesto Apestegui Valencia;172.20.50.132;;Imagen
+;Victor Hugo Paredes Torres;172.20.53.131;;Imagen
+;lucia delgado a;172.20.52.254;;Imagen
+;impresora;172.20.50.194;;Imagen
+;;172.20.50.86;;Visualización
+;;172.20.50.61;;Visualización
+;;172.20.50.11;;Visualización
+;;172.20.50.14;;Visualización
+;;172.20.50.57;;Visualización
+;;172.20.50.107;;Visualización
+;;172.20.50.50;;Seguridad
+;Helen Saavedra Silva;172.20.52.231;;Certificados
+;Claudia Elizabeth Moncada Linares;172.20.52.237;;Certificados
+;Lisbeth Fiorella Infante Lopez;172.20.52.250;;Certificados
+;Adan Lescano Zavaleta;172.20.52.232;;Certificados
+;Pract- Victoria Cecilia Azabache Leon;172.20.52.224;;Certificados
+;Christian Michel Carrasco Celis;172.20.52.201;;Certificados
+;Silvia Huiman Ganoza;172.20.52.239;;Certificados
+;Diana Carolina Carlos Coronado;172.20.52.233;;Certificados
+;Carlos Pereda Ulloa;172.20.50.226;;Archivo
+;Alex Jimenez Verastegui;172.20.50.183;;Archivo
+;Silvia Solano Villacorta;172.20.50.12;;Archivo
+;Marco Purihuaman;172.20.50.189;;Archivo
+;Carlos Pereda Ulloa;172.20.50.171;;Archivo
+;Zarela Guevara Minano;172.20.50.70;;Archivo
+;Paul Edward Espina Cuba;172.20.50.197;;Archivo
+;fotocop;172.20.50.36;;Archivo
+;fotocop;172.20.50.230;;Archivo
+;Plotter;172.20.50.20;;Archivo
+;Carmen Pilar Morillas Dominguez;172.20.50.97;;Legal
+;jefe de área;172.20.52.195;;Legal
+;apagada;172.20.50.224;;Legal
+;apagada;172.20.50.174;;Legal
+;tmunos;172.20.50.175;;Legal
+;Andres William Flores Llumpo;172.20.50.125;;Legal
+;Miluskha Saray Cubas Parraguez;172.20.50.137;;OCI
+;Diego Ñique;172.20.50.122;;OCI
+;Jesica Alban;172.20.50.199;;OCI
+;Jorge Ñaupa;172.20.50.90;;OCI
+;Rosmery Bocanegra;172.20.50.228;;OCI
+;Monica Roxana Noriega Angeles;172.20.50.142;;OCI
+;Janina Herrera;172.20.50.154;;OCI
+;Anali Rodrigues;172.20.50.18;;OCI
+;Roberto Carlo Rodes;172.20.50.66;;OCI
+;Rosa perez;172.20.50.235;;Tesoreria
+;Mavell chuquival;172.20.50.161;;Tesoreria
+;Silvia Berastegui;172.20.50.244;;Tesoreria
+;Davila Perez;172.20.50.62;;Tesoreria
+;Gustavo Yncio;172.20.50.25;;Tesoreria
+;PC para Scann;172.20.50.248;;Abastecimiento 
+;Sandra Milena Sanchez Motta;172.20.52.200;;Abastecimiento 
+;Sandy Evelyn Jaramillo Alva;172.20.52.196;;Abastecimiento 
+;Prac;172.20.52.199;;Abastecimiento 
+;siga;172.20.50.207;;Abastecimiento 
+;Diana Milagros Valverde Rondo;172.20.52.202;;Abastecimiento 
+;Jessy Diaz;172.20.52.194;;Abastecimiento 
+;Fotocopiadora;172.20.50.87;;Abastecimiento 
+;jefa;172.20.50.130;;Contabilidad
+;Juan Humberto Pastor Fernandez;172.20.52.204;;Contabilidad
+;Elias Antonio Padilla Alzamora;172.20.50.48;;Contabilidad
+;Pract;172.20.52.197;;Contabilidad
+;Juan Jose Silva Graos;172.20.50.76;;Tribunal
+;Wilson Mauricio Bernal Maldonado;172.20.50.240;;Tribunal
+;Ereni Artega Soles;172.20.52.208;;Tribunal
+;Yamiz Jonathan Oblea Silva;172.20.50.129;;Tribunal
+;;172.20.50.151;;Tribunal
+;Giuliana Esther Santos Mercedes;172.20.50.109;;Tribunal
+;Maria Alexandra Zapata Pardo de Figueroa;172.20.50.206;;Tribunal
+;Dorothy Yuvithza Armas Lopez;172.20.50.114;;Tribunal
+;Walter Morgan Plaza;172.20.50.117;;Tribunal
+;;52.209;;Jefatura
+;Carlos Pastor Casas;172.20.50.164;;Jefatura
+;Yakelin Malea;172.20.50.65;;Catastro
+;Maria Alejandra Frias;172.20.50.249;;Catastro
+;Daniel Villalovos;172.20.50.91;;Catastro
+;Javier Garcia;172.20.50.92;;Catastro
+;Ruby Leon;172.20.50.143;;Catastro
+;Amanda Molina;172.20.50.121;;Catastro
+;Ruben Dario Pelaez de la Cruz;172.20.50.176;;Catastro
+;Alexa Collantes;172.20.50.56;;Catastro
+;Rosmery Cruz Cornelio;172.20.50.238;;Catastro
+;Jorge Sicha;172.20.50.100;;Catastro
+;Brigitte Bocanegra Alayo;172.20.50.180;;Catastro
+;Katia Campos;172.20.50.54;;Catastro
+;Leady Abarca;172.20.50.145;;Catastro
+;Busqueda Registral;172.20.52.218;;Catastro
+;Patricia Castillo Moran;172.20.50.173;;Catastro
+;Sofia Elizabeth Huerta;172.20.50.179;;Catastro
+;Plotter;172.20.50.247;;Catastro
+;HP;172.20.50.60;;Catastro
+;Cindy Pizan;172.20.50.131;;Vehicular 5-1
+;Bikel Araujo;172.20.50.144;;Vehicular 5-1
+;Yessica Bautista;172.20.50.165;;Vehicular 5-1
+;Sheyla Walter;172.20.50.204;;Vehicular 5-1
+;Rocio del Pilar;172.20.50.186;;Vehicular 5-1
+;Jorge Mendez;172.20.50.168;;Vehicular 5-1
+;Juan LuCiano Cruz Corcuera;172.20.50.89;;Secretaria-Tecn
+;Anggie Dennis Santa Cruz Mujica;172.20.50.218;;Secretaria-Tecn
+;Monika Lily Fernandez Argomedo;172.20.52.243;;Mineria
+;Carlos Matos;172.20.52.244;;Mineria
+;Pract - Jeanet Avaloz;172.20.53.136;;Vehicular  
+;Patricia Urrunaga Molina;172.20.53.179;;Vehicular  
+;Jesica Benites;172.20.53.137;;Vehicular  
+;Patricia Garcia;172.20.50.152;;Vehicular  
+;Cynthia Maricielo;172.20.53.140;;Vehicular  
+;Pamela Caro Perez;172.20.53.141;;Vehicular  
+;Rubi Rufino;172.20.53.169;;Vehicular  
+;Alina Diaz;172.20.53.142;;Vehicular  
+;Daniel Montenegro;172.20.53.154;;Vehicular  
+;Christian Ulloa;172.20.50.227;;Vehicular  
+;Rovert Zavaleta;172.20.50.163;;Vehicular  
+;Herlinda Neciosup;172.20.53.133;;Vehicular  
+;Rosa Elvira Garcia y Garcia;172.20.50.177;;Vehicular  
+;Patricia Ravanal;172.20.53.151;;Vehicular  
+;Deysi Prettel;172.20.52.198;;Personal Y Presupuesto
+;Natali Silva;172.20.52.221;;Personal Y Presupuesto
+;Javier Mora;172.20.52.219;;Personal Y Presupuesto
+;Cindy Rijalba Diaz;172.20.52.235;;Personal Y Presupuesto
+;Carlos Holguin;172.20.52.234;;Personal Y Presupuesto
+;Gaby Bobadilla;172.20.52.222;;Personal Y Presupuesto
+;Aliaga;172.20.52.226;;Personal Y Presupuesto
+;Janina Quiroz;172.20.52.227;;Personal Y Presupuesto
+;Claudia Paredez;172.20.52.230;;Personal Y Presupuesto
+;Romina Temoche;172.20.52.229;;Personal Y Presupuesto
+;Jessica Delgado;172.20.52.228;;Personal Y Presupuesto
+;Impresora;172.20.52.220;;Personal Y Presupuesto
+;Jessica Diaz Delgado;172.20.50.95;;Juridicas
+;Maria del Carmen Suarez;172.20.50.185;;Juridicas
+;Patricia Juarez Dominguez;172.20.53.184;;Juridicas
+;Mariann Oliva;172.20.53.177;;Juridicas
+;Neri Ulloa Abanto;172.20.50.64;;Juridicas
+;Victor Razuri;172.20.50.105;;Juridicas
+;Marjorie Leyva Monsefu;172.20.53.144;;Juridicas
+;Thalia Barrios Lopez;172.20.50.79;;Juridicas
+;Liz Vicuna;172.20.53.157;;Juridicas
+;Karla Neyra Castillo;172.20.53.156;;Juridicas
+;Elisa Alva Bazan;172.20.53.164;;Juridicas
+;Luis Terrones;172.20.53.145;;Juridicas
+;Tito Torres;172.20.50.149;;Juridicas
+;Katerine Johanson;172.20.50.170;;Juridicas
+;Ximena Antonella Jauregui;172.20.50.99;;Juridicas
+;Elmer Daniel Ramirez Malca;172.20.50.63;;Juridicas
+;Lourdes Cornejo;172.20.50.45;;Proyecto SGTD
+;Milagros Nunes;172.20.50.94;;Proyecto SGTD
+;Ercilia Aracely Hernandez Lezama;172.20.50.77;;Proyecto SGTD
+;Erich;;;UTI
+;Betty Orbegoso Legoas;172.20.53.160;;UTI
+;Pool Rubio Cuba;172.20.50.33;;UTI
+;Luis Zafra Abanto;172.20.50.34;;UTI
+;;172.20.50.8;;UTI
+;Ortega;172.20.50.16;;UTI
+;Percy Velasquez;172.20.50.71;;UTI
+;Karla Portilla;172.20.53.158;;UTI
+;Karla Portilla (SIGA);172.20.50.188;;UTI
+;German Ayala;172.20.50.184;;UTI
+;Victor Raúl;172.20.53.130;;UTI
+;Cristian Reyes;172.20.50.83;;UTI
+;Cristian Cristobal;172.20.52.215;;UTI
+;Renzo vasquez;172.20.53.132;;UTI
+;Renzo vasquez;172.20.50.27;;UTI
+;Pool Rubio Cuba;172.20.50.26;;UTI
+;Dennis Jara Gamboa;172.20.53.166;;UTI
+;Percy Velasquez;172.20.50.167;;UTI
+;Franco Muñoz;172.20.50.52;;UTI
+;Victor Raúl;172.20.53.189;;UTI
+;Fotocopiadora;172.20.53.187;;UTI
+;Helen Marianela Porras Garcia;172.20.50.110;;Predios
+;Miriam bazan;172.20.50.73;;Predios
+;Sesigra Rosa Elizabeth Cornejo;172.20.50.217;;Predios
+;Gloria Monja;172.20.50.193;;Predios
+;Victor Roberto Pelaez Muguerza;172.20.50.32;;Predios
+;Ivan Rebaza;172.20.50.128;;Predios
+;Mirian Ysabel Bazan Mendez;172.20.50.112;;Predios
+;Pract Italo Martin Gomez;172.20.50.44;;Predios
+;Beronika Carolina Salcedo Narvaez;172.20.50.80;;Predios
+;Mario Mallqui Romero;172.20.50.75;;Predios
+;Jose Arturo Mendoza Gutierrez;172.20.50.210;;Predios
+;Miguel Angel Torres Reyna;172.20.50.223;;Predios
+;Carlos Alexis Rojas Chavez;172.20.50.68;;Predios
+;Pract Sevillano Chavez Delmira Emira;172.20.50.209;;Predios
+;Cesar Eduardo Dionicio Quezada;172.20.50.232;;Predios
+;Jhans Ricardo Diaz Malaver;172.20.50.153;;Predios
+;Cynthia Gisella Aranda Pimentel;172.20.50.81;;Predios
+;Carlos Fabricio Pajares Peralta;172.20.50.242;;Predios
+;Eberardo Jose Meneses Reyes;172.20.50.98;;Predios
+;Rafael Humberto Perez Silva;172.20.50.202;;Predios
+;Karen Judith Toledo Guerrero;172.20.50.221;;Predios
+;Kiomara Tatiana Argomedo Garcia;172.20.50.134;;Predios
+;Karina Ugaz;172.20.50.140;;Predios
+;Pract Mines Cabrera Diego Alonso;172.20.50.169;;Predios
+;Julio Cesar Moran Costa;172.20.50.158;;Predios
+;Silvia Carolina Alcanta Valdivia;172.20.50.101;;Predios
+;Daniel Fernando Montoya Lopez;172.20.50.215;;Predios
+;James Aguilar Rodriguez;172.20.50.200;;Predios
+;Pract Brenda Sheyla Pelaez Soberon;172.20.50.236;;Predios
+;Fred William Quilcat Quilcat;172.20.50.67;;Predios
+;Christian David Fhon Trigoso;172.20.50.40;;Predios
+;Sandra Noriega Reyes;172.20.50.207;;Predios
+;Juana Deyanira Fernanda Bobadilla Carrera;172.20.50.139;;Predios
+;Pract Mauricio Alejandro Gonzales Azabache;172.20.50.133;;Predios
+;Telmo;172.20.52.246;;Predios
+;Leonardo Fabio Moreno Polo;172.20.50.119;;Predios
+;sHurtadoh;172.20.50.225;;Predios
+;Victor Chavez;172.20.50.126;;Predios
